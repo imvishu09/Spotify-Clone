@@ -16,7 +16,7 @@ To run the project locally:
 1. Clone the repository
 
 ```
-git clone [https://github.com/imvishu09/spotify-web-player.git](https://github.com/imvishu09/Spotify-Clone.git)
+git clone https://github.com/imvishu09/spotify-web-player.git
 ``` 
 
 2. Open index.html in your browser
